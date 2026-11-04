@@ -16,3 +16,13 @@ Ce projet permet de collecter et d'analyser des données avec Python.
 
 \- requirements.txt : dépendances Python
 
+
+
+\## Objectif
+
+
+
+Ce projet permet de découvrir les outils Python
+
+pour la collecte et l'analyse des données.
+
