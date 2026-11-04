@@ -1,0 +1,14 @@
+# Mes environnements virtuels
+.venv/
+.venv_exercice_revisions_pandas/
+
+# Fichiers générés automatiquement par Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires des notebooks
+.ipynb_checkpoints/
+
+# Fichiers secrets
+.env
+.env.*
