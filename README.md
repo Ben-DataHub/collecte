@@ -1,4 +1,4 @@
-# Projet Collecte - Version à annuler
+# Projet Collecte - Version définitive
 
 
 
