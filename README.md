@@ -26,3 +26,15 @@ Ce projet permet de découvrir les outils Python
 
 pour la collecte et l'analyse des données.
 
+
+
+\## Installation
+
+
+
+Pour installer les bibliothèques nécessaires au projet :
+
+
+
+python -m pip install -r requirements.txt
+
