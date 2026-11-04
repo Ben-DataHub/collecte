@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-\# # Projet Collecte - Version principale
-=======
-\# # Projet Collecte - Version branche
->>>>>>> conflit-test
+# Projet Collecte - Version principale
 
 
 
