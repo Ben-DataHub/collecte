@@ -38,3 +38,5 @@ Pour installer les bibliothèques nécessaires au projet :
 
 python -m pip install -r requirements.txt
 
+
+# Ajoute une ligne de description
